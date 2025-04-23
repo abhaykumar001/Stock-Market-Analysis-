@@ -66,7 +66,7 @@ Follow these steps to run the project locally.
 ```bash
 git clone https://github.com/your-username/stock-visualization-app.git
 cd stock-visualization-app
-
+```
 
 ## 🔧 Backend Setup
 
