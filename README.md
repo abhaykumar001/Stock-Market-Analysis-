@@ -132,8 +132,6 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 
 ## 📸 Screenshots
 
-> *(Insert your own screenshots or GIFs here)*
-
 ### Dashboard with Dropdown and Chart
 
 ![Dashboard](screenshots/dashboard.png)
