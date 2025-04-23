@@ -67,7 +67,6 @@ Follow these steps to run the project locally.
 git clone https://github.com/your-username/stock-visualization-app.git
 cd stock-visualization-app
 
----
 
 ## 🔧 Backend Setup
 
@@ -99,7 +98,6 @@ cd stock-visualization-app
 
 The server will run at [http://localhost:5000](http://localhost:5000).
 
----
 
 ## 🎨 Frontend Setup
 
@@ -123,7 +121,6 @@ The server will run at [http://localhost:5000](http://localhost:5000).
 
 The frontend will run at [http://localhost:3000](http://localhost:3000).
 
----
 
 ## 🔌 API Endpoints
 
@@ -132,7 +129,6 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 | GET    | `/api/stocks`        | Returns a list of available stock symbols     |
 | GET    | `/api/stock/:symbol` | Returns OHLC and volume data for the symbol   |
 
----
 
 ## 📸 Screenshots
 
@@ -146,7 +142,6 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 
 ![Candlestick](screenshots/candlestick.png)
 
----
 
 ## ⚠️ Known Issues
 
@@ -154,13 +149,11 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 - The current setup fetches stock data from a local API. You may need to integrate external data providers (e.g., Alpha Vantage, Yahoo Finance) for production.
 - No authentication or user management is included yet.
 
----
 
 ## 📝 License
 
 This project is licensed under the MIT License.
 
----
 
 ## 🙌 Acknowledgements
 
@@ -171,13 +164,9 @@ This project is licensed under the MIT License.
 - Express.js  
 - Axios
 
----
-
 ## 📬 Contact
 
 For questions, suggestions, or collaboration:
 
-- GitHub: [@your-username](https://github.com/your-username)  
-- Email: yourname@example.com
-
----
+- GitHub: [abhaykumar001](https://github.com/abhaykumar001)  
+- Email: abhaykumary4k@gmail.com
