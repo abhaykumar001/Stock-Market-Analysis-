@@ -33,7 +33,26 @@
 
 ## 📂 Project Structure
 
-
+- **backend**
+  - `data/`
+  - `node_modules/`
+  - `package.json`
+  - `package-lock.json`
+  - `server.js`
+- **frontend**
+  - `public/`
+  - `src/`
+    - `App.js`
+    - `App.test.js`
+    - `index.css`
+    - `index.js`
+    - `reportWebVitals.js`
+    - `setupTests.js`
+  - `.gitignore`
+  - `package.json`
+  - `package-lock.json`
+  - `README.md`
+  - `tailwind.config.js`
 
 
 ---
