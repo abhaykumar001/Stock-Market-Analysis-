@@ -142,6 +142,18 @@ The frontend will run at [http://localhost:3000](http://localhost:3000).
 
 ![Candlestick](screenshots/candlestick.png)
 
+### Graphical Visualization of individual Stock Perfromance 
+
+![Candlestick](screenshots/new1.png)
+
+### Navigaion With Tableur Representation of Losers and Gainers 
+
+![Candlestick](screenshots/new2.png)
+
+### Tableur Representation and Perfromance Chart 
+
+![Candlestick](screenshots/new3.png)
+
 
 ## ⚠️ Known Issues
 
